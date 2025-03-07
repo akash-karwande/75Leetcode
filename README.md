@@ -1,7 +1,7 @@
 # 75Leetcode
 
 ### Array OR String
-  - Merge Strings Alternately
+  - Merge Strings Alternately \
          Input: word1 = "abc", word2 = "pqr" \
          Output: "apbqcr" \
          Explanation: The merged string will be merged as so: \
