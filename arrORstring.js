@@ -22,4 +22,4 @@ var mergeAlternately = function(word1, word2) {
     return result
 };
 
-console.log(mergeAlternately('abc', 'pqr22'))
+// console.log(mergeAlternately('abc', 'pqr22'))
